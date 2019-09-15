@@ -1,0 +1,11 @@
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\bin\Debug\netcoreapp2.2\Currency_Unit1.deps.json
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\bin\Debug\netcoreapp2.2\Currency_Unit1.runtimeconfig.json
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\bin\Debug\netcoreapp2.2\Currency_Unit1.runtimeconfig.dev.json
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\bin\Debug\netcoreapp2.2\Currency_Unit1.dll
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\bin\Debug\netcoreapp2.2\Currency_Unit1.pdb
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\obj\Debug\netcoreapp2.2\Currency_Unit1.csprojAssemblyReference.cache
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\obj\Debug\netcoreapp2.2\Currency_Unit1.csproj.CoreCompileInputs.cache
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\obj\Debug\netcoreapp2.2\Currency_Unit1.AssemblyInfoInputs.cache
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\obj\Debug\netcoreapp2.2\Currency_Unit1.AssemblyInfo.cs
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\obj\Debug\netcoreapp2.2\Currency_Unit1.dll
+C:\Users\Jake & Lanna\Desktop\Currency_Unit1\Currency_Unit1\obj\Debug\netcoreapp2.2\Currency_Unit1.pdb
